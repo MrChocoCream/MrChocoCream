@@ -24,7 +24,5 @@
 - Under construction (I will soon include projects where I demonstrate practical cases such as: real data analysis, dashboards, task automation, etc.)
 
 ## 📫 How to reach me ... 
-- <img src="https://img.icons8.com/color/24/000000/gmail-new.png" width="20"/> jpascualrosa@gmail.com
-- [![LinkedIn](https://img.icons8.com/color/24/000000/linkedin.png)](https://www.linkedin.com/in/joseapascual/)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseapascual/)
-- LinkedIn: https://www.linkedin.com/in/joseapascual/
+- <img src="https://img.icons8.com/color/24/000000/gmail-new.png" width="30"/> jpascualrosa@gmail.com
+- [![LinkedIn](https://img.icons8.com/color/24/000000/linkedin.png)](https://www.linkedin.com/in/joseapascual/) https://www.linkedin.com/in/joseapascual/
