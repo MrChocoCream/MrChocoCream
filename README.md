@@ -25,4 +25,4 @@
 
 ## 📫 How to reach me ... 
 - <a href="mailto:your.email@gmail.com"><img src="https://img.icons8.com/color/24/000000/gmail-new.png" width="20"/> jpascualrosa@gmail.com</a>
-- [![LinkedIn](https://img.icons8.com/color/24/000000/linkedin.png)](https://www.linkedin.com/in/joseapascual/) joseapascual
+- [![LinkedIn](https://img.icons8.com/color/24/000000/linkedin.png)](https://www.linkedin.com/in/joseapascual/) https://www.linkedin.com/in/joseapascual
