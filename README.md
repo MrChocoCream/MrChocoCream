@@ -21,9 +21,8 @@
 - Some other tools for my personal and professional development...
 
 ## 📂 Featured Repositories
-
 - Under construction (I will soon include projects where I demonstrate practical cases such as: real data analysis, dashboards, task automation, etc.)
 
 ## 📫 How to reach me ... 
-Gmail: jpascualrosa@gmail.com
-LinkedIn: https://www.linkedin.com/in/joseapascual/
+- Gmail: jpascualrosa@gmail.com
+- LinkedIn: https://www.linkedin.com/in/joseapascual/
